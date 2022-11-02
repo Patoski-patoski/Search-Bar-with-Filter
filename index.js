@@ -16,8 +16,6 @@ for (let i = 0; i < li.length; i++) {
     
  }else{
     li[i].style.display ='none';
-    span.innerHTML = 'Sorry, never heard this'
-
 
  }
 }
