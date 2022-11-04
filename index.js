@@ -14,7 +14,7 @@ for (let i = 0; i < li.length; i++) {
     li[i].style.display = '';
 
     
- }else{
+ }else{  
     li[i].style.display ='none';
 
  }
